@@ -1,15 +1,14 @@
-Bienvenidos a la instalación por favor sigue estos pasos.
-
 ### Instalacion
 + **Por Linux :**
 ```
-~ ❯❯❯ git clone 
+❯❯❯ git clone  https://github.com/Spik22/inner.git  
 
-~ ❯❯❯ cd inner
+❯❯❯ cd inner
 
-~/inner ❯❯❯ chmod +x inner.sh
+❯❯❯ chmod +x inner.sh
 
-~/inner ❯❯❯ ./inner.sh
+❯❯❯ ./inner.sh
 ```
 
-Esa es toda la instalacion, facil.
+Esta herramienta puede hackear cualquier red wifi. No la uses en cosas importantes. Ejemplo hackear la red de la policia.  
+
